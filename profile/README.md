@@ -5,7 +5,7 @@ HoundSec
 Empowering Minds with Modern Tech.
 ----------------
 
-Discover the world of technology, cybersecurity, and programming with HoundSec - a platform founded by Monazir Muhammad Doha, offering valuable insights and tutorials to a global audience.
+our one-stop solution for software development and sysadmin services. From automation scripts to full-stack applications and server management, we build and manage technology so you can focus on growth.
 
 * 🖥️  Visit [HoundSec](https://houndsec.net)
 * ▶️  Our [YouTube Channel](https://youtube.com/@HoundSec)
